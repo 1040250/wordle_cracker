@@ -2,7 +2,7 @@
 #### Video Demo:  https://youtu.be/Z4KaxiZ1UE8
 
 
-This program helps you solve any English-language Wordle game in typically four moves.
+This program helps you solve any English-language [Wordle](https://www.nytimes.com/games/wordle/index.html) game in typically four moves.
 
 It takes your guesses and the resulting color clues as input and optimizes your next guess. As start word, "arose" is recommended.
 
