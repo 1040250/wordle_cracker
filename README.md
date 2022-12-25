@@ -1,5 +1,5 @@
 # WORDLE CRACKER
-#### Video Demo:  https://youtu.be/Z4KaxiZ1UE8
+#### Video demo:  https://youtu.be/Z4KaxiZ1UE8
 
 
 This program helps you solve any English-language [Wordle](https://www.nytimes.com/games/wordle/index.html) game in typically four moves.
