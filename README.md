@@ -19,4 +19,4 @@ Example: "abbcc" (or "12233") means the first letter is green, second and third 
 
 The program returns the subset of the word list that fulfils the constraints provided by the feedback. The list is sorted in a way that the most common letters are preferred. The score for each word is printed next to the word.
 
-The word list used here is the one from https://github.com/tabatkins/wordle-list/blob/main/words According to @tabatkins "valid guesses in wordle, taken straight from the game's source code"
+The word list used here is the one from [@tabatkins](https://github.com/tabatkins/wordle-list/blob/main/words), according to whom it has all the "valid guesses in wordle, taken straight from the game's source code".
