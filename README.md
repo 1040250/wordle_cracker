@@ -10,7 +10,7 @@ Wordle is a web-based word game created and developed by Welsh software engineer
 
 After every guess, each letter is marked as either green, yellow or gray: green indicates that letter is correct and in the correct position, yellow means it is in the answer but not in the right position, while gray indicates it is not in the answer at all. Multiple instances of the same letter in a guess, such as the "o"s in "robot", will be colored green or yellow only if the letter also appears multiple times in the answer; otherwise, excess repeating letters will be colored gray. The game has a "hard mode" option, which requires players to include letters marked as green and yellow in subsequent guesses. This program supports hard mode.
 
-The programm will prompt you for your guess (must be five-letter word) and the feedback from wordle. You encode the feedback in five characters, each representing one of the letters of your guess, in order. You type 
+The programm will prompt you for your guess (must be five-letter word) and the feedback from Wordle. You encode the feedback in five characters, each representing one of the letters of your guess, in order. You type 
 - "a" or "1" for green, 
 - "b" or "2" for yellow, and 
 - "c" or "3" for grey. 
